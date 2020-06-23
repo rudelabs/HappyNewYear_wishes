@@ -1,1 +1,52 @@
-
+{
+  "wishes": [
+    {
+      "id": "001",
+      "text": "Priez pour que vous et votre famille passez une bonne et heureuse année!"
+    },
+    {
+      "id": "002",
+      "text": "Que le dieu bénisse votre famille de prospérité, de bonne santé et de bonheur au Nouvel An."
+    },
+    {
+      "id": "003",
+      "text": "Que le Seigneur vous assure de réussir dans votre carrière et de résoudre tous les conflits cette année."
+    },
+    {
+      "id": "004",
+      "text": "Bonne année! Puissiez-vous avoir une nouvelle année bénie pleine de succès, de service et d'amour!"
+    },
+    {
+      "id": "005",
+      "text": "Profitez de cette période spéciale de l'année avec ceux que vous aimez et que le Seigneur vous bénisse tous avec une nouvelle année heureuse et saine."
+    },
+    {
+      "id": "006",
+      "text": "Puissions-nous tous être bénis avec une autre nouvelle année pleine d'amis, de famille et de succès."
+    },
+    {
+      "id": "007",
+      "text": "Sur la voie du succès, la règle est toujours de regarder vers l'avenir. Puissiez-vous atteindre votre destination et que votre voyage soit merveilleux. Bonne année."
+    },
+    {
+      "id": "008",
+      "text": "Terminez chaque année avec quelques bonnes leçons et commencez la nouvelle en montrant que vous avez bien appris les leçons du passé."
+    },
+    {
+      "id": "009",
+      "text": "La nouvelle année nous a donné une autre chance de remettre les choses en ordre et d'ouvrir un nouveau chapitre dans nos vies."
+    },
+    {
+      "id": "010",
+      "text": "Puisse la nouvelle année vous voir aimer, donner et vivre!"
+    },
+    {
+      "id": "011",
+      "text": "Nous vous adressons nos meilleurs vœux de santé et de bonheur pour 2011 et vous souhaitons beaucoup d'énergie dans vos activités ! "
+    },
+    {
+      "id": "012",
+      "text": "Bon réveillon et tous nos meilleurs vœux de bonheur et de réussite pour 2021"
+    }
+  ]
+}
